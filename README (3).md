@@ -6,15 +6,11 @@ It shows the current temperature and weather conditions of any city.
 - Shows current temperature
 - Displays weather conditions 
 - Allows searching by city name
-## How to Run
-https://github.com/ishita082007/my-project.git
 ## Live Demo
-https://ishita082007.github.io/my-project/
+https://wheatherapp-blue.vercel.app/
 ## Technologies Used
 HTML
 CSS
 JavaScript
-## Author
-Ishita Mehra
-[GitHub] https://github.com/ishita082007
+
 
